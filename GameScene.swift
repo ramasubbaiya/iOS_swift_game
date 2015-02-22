@@ -102,7 +102,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     // write score to the label.
     // Extra code added by Boris Filipović.
     func scoreLabelUpdate(newscore:Int){
-        scoreLabel.text = "\(newscore)" // Add int into string. In xcode you would use stringWithFormat for that.
+        scoreLabel.text = "\(newscore)" // Add int into string. In objective-c you would use stringWithFormat for that.
     }
     
     override func touchesEnded(touches: NSSet, withEvent event: UIEvent) {
