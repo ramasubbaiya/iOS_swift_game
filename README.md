@@ -1,4 +1,4 @@
-# iOS_swift_game
+# iOS swift game
 
 This is updated code for youtube ios swift game tutorial made by Brian Advent. Link to video: https://www.youtube.com/watch?v=CpIoHPUyu8s.
 Majority and base of the code belongs to Brian Advent. I only made some code fixes, because Apple made some changes in Swift and his code does throw some errors and does not build.
